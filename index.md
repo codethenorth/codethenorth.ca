@@ -22,7 +22,7 @@ description: Code the North is a national civic tech initiative connecting local
           <div class="card-body">
             <h5 class="card-title">Code for Toronto</h5>
             <p class="card-text">Civic tech projects focused on Canada's largest city.</p>
-            <a href="https://codefortoronto.ca" class="btn btn-outline-primary">Visit</a>
+            <a href="https://www.codefortoronto.com/" class="btn btn-outline-primary">Visit</a>
           </div>
         </div>
       </div>
@@ -31,7 +31,7 @@ description: Code the North is a national civic tech initiative connecting local
           <div class="card-body">
             <h5 class="card-title">Code for Montreal</h5>
             <p class="card-text">Bilingual open-source tools for civic life in Montreal.</p>
-            <a href="https://codeformontreal.ca" class="btn btn-outline-primary">Visit</a>
+            <a href="https://www.codeformontreal.com/" class="btn btn-outline-primary">Visit</a>
           </div>
         </div>
       </div>
@@ -40,7 +40,7 @@ description: Code the North is a national civic tech initiative connecting local
           <div class="card-body">
             <h5 class="card-title">Code for Calgary</h5>
             <p class="card-text">Improving access and transparency in Alberta’s largest city.</p>
-            <a href="https://codeforcalgary.ca" class="btn btn-outline-primary">Visit</a>
+            <a href="https://www.codeforcalgary.com/" class="btn btn-outline-primary">Visit</a>
           </div>
         </div>
       </div>
@@ -49,7 +49,7 @@ description: Code the North is a national civic tech initiative connecting local
           <div class="card-body">
             <h5 class="card-title">Code for Ottawa</h5>
             <p class="card-text">Digital tools that strengthen democracy in the nation’s capital.</p>
-            <a href="https://codeforottawa.ca" class="btn btn-outline-primary">Visit</a>
+            <a href="https://www.codeforottawa.com/" class="btn btn-outline-primary">Visit</a>
           </div>
         </div>
       </div>
@@ -58,7 +58,7 @@ description: Code the North is a national civic tech initiative connecting local
           <div class="card-body">
             <h5 class="card-title">Code for Edmonton</h5>
             <p class="card-text">Building community-first civic tools for Edmontonians.</p>
-            <a href="https://codeforedmonton.ca" class="btn btn-outline-primary">Visit</a>
+            <a href="https://www.codeforedmonton.com/" class="btn btn-outline-primary">Visit</a>
           </div>
         </div>
       </div>
@@ -67,7 +67,7 @@ description: Code the North is a national civic tech initiative connecting local
           <div class="card-body">
             <h5 class="card-title">Code for Vancouver</h5>
             <p class="card-text">Civic innovation on the West Coast of Canada.</p>
-            <a href="https://codeforvancouver.ca" class="btn btn-outline-primary">Visit</a>
+            <a href="https://www.codeforvancouver.com/" class="btn btn-outline-primary">Visit</a>
           </div>
         </div>
       </div>
