@@ -1,0 +1,25 @@
+.hero {
+  background-image: linear-gradient(rgba(215, 25, 32, 0.85), rgba(215, 25, 32, 0.85)), url('/assets/images/hero.jpg');
+  background-size: cover;
+  background-position: center;
+  color: #ffffff;
+}
+
+.card-title {
+  color: #d71920; /* Canada Red */
+}
+
+.navbar,
+footer {
+  background-color: #1a1a1a;
+}
+
+.btn-primary {
+  background-color: #d71920;
+  border-color: #d71920;
+}
+
+.btn-primary:hover {
+  background-color: #b0151b;
+  border-color: #a01318;
+}
